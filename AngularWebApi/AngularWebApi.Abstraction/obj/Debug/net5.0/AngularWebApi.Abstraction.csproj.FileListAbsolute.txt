@@ -1,0 +1,40 @@
+E:\Youtube Videos\Vish Tech\Source Code of Vish Tech\AngularWebApi\AngularWebApi.Abstraction\bin\Debug\net5.0\AngularWebApi.Abstraction.deps.json
+E:\Youtube Videos\Vish Tech\Source Code of Vish Tech\AngularWebApi\AngularWebApi.Abstraction\bin\Debug\net5.0\AngularWebApi.Abstraction.runtimeconfig.json
+E:\Youtube Videos\Vish Tech\Source Code of Vish Tech\AngularWebApi\AngularWebApi.Abstraction\bin\Debug\net5.0\AngularWebApi.Abstraction.runtimeconfig.dev.json
+E:\Youtube Videos\Vish Tech\Source Code of Vish Tech\AngularWebApi\AngularWebApi.Abstraction\bin\Debug\net5.0\AngularWebApi.Abstraction.dll
+E:\Youtube Videos\Vish Tech\Source Code of Vish Tech\AngularWebApi\AngularWebApi.Abstraction\bin\Debug\net5.0\ref\AngularWebApi.Abstraction.dll
+E:\Youtube Videos\Vish Tech\Source Code of Vish Tech\AngularWebApi\AngularWebApi.Abstraction\bin\Debug\net5.0\AngularWebApi.Abstraction.pdb
+E:\Youtube Videos\Vish Tech\Source Code of Vish Tech\AngularWebApi\AngularWebApi.Abstraction\bin\Debug\net5.0\AngularWebApi.Entity.dll
+E:\Youtube Videos\Vish Tech\Source Code of Vish Tech\AngularWebApi\AngularWebApi.Abstraction\bin\Debug\net5.0\DAL.dll
+E:\Youtube Videos\Vish Tech\Source Code of Vish Tech\AngularWebApi\AngularWebApi.Abstraction\bin\Debug\net5.0\AngularWebApi.Entity.pdb
+E:\Youtube Videos\Vish Tech\Source Code of Vish Tech\AngularWebApi\AngularWebApi.Abstraction\bin\Debug\net5.0\DAL.pdb
+E:\Youtube Videos\Vish Tech\Source Code of Vish Tech\AngularWebApi\AngularWebApi.Abstraction\obj\Debug\net5.0\AngularWebApi.Abstraction.csproj.AssemblyReference.cache
+E:\Youtube Videos\Vish Tech\Source Code of Vish Tech\AngularWebApi\AngularWebApi.Abstraction\obj\Debug\net5.0\AngularWebApi.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+E:\Youtube Videos\Vish Tech\Source Code of Vish Tech\AngularWebApi\AngularWebApi.Abstraction\obj\Debug\net5.0\AngularWebApi.Abstraction.AssemblyInfoInputs.cache
+E:\Youtube Videos\Vish Tech\Source Code of Vish Tech\AngularWebApi\AngularWebApi.Abstraction\obj\Debug\net5.0\AngularWebApi.Abstraction.AssemblyInfo.cs
+E:\Youtube Videos\Vish Tech\Source Code of Vish Tech\AngularWebApi\AngularWebApi.Abstraction\obj\Debug\net5.0\AngularWebApi.Abstraction.csproj.CoreCompileInputs.cache
+E:\Youtube Videos\Vish Tech\Source Code of Vish Tech\AngularWebApi\AngularWebApi.Abstraction\obj\Debug\net5.0\AngularWebApi.Abstraction.csproj.CopyComplete
+E:\Youtube Videos\Vish Tech\Source Code of Vish Tech\AngularWebApi\AngularWebApi.Abstraction\obj\Debug\net5.0\AngularWebApi.Abstraction.dll
+E:\Youtube Videos\Vish Tech\Source Code of Vish Tech\AngularWebApi\AngularWebApi.Abstraction\obj\Debug\net5.0\ref\AngularWebApi.Abstraction.dll
+E:\Youtube Videos\Vish Tech\Source Code of Vish Tech\AngularWebApi\AngularWebApi.Abstraction\obj\Debug\net5.0\AngularWebApi.Abstraction.pdb
+E:\Youtube Videos\Vish Tech\Source Code of Vish Tech\AngularWebApi\AngularWebApi.Abstraction\obj\Debug\net5.0\AngularWebApi.Abstraction.genruntimeconfig.cache
+E:\Youtube Videos\Vish Tech\3.2Crud Operation with Angular 9 and .net core 3.0 web\Source code with Repositery patterent\AngularWebApi\AngularWebApi.Abstraction\bin\Debug\net5.0\AngularWebApi.Abstraction.deps.json
+E:\Youtube Videos\Vish Tech\3.2Crud Operation with Angular 9 and .net core 3.0 web\Source code with Repositery patterent\AngularWebApi\AngularWebApi.Abstraction\bin\Debug\net5.0\AngularWebApi.Abstraction.runtimeconfig.json
+E:\Youtube Videos\Vish Tech\3.2Crud Operation with Angular 9 and .net core 3.0 web\Source code with Repositery patterent\AngularWebApi\AngularWebApi.Abstraction\bin\Debug\net5.0\AngularWebApi.Abstraction.runtimeconfig.dev.json
+E:\Youtube Videos\Vish Tech\3.2Crud Operation with Angular 9 and .net core 3.0 web\Source code with Repositery patterent\AngularWebApi\AngularWebApi.Abstraction\bin\Debug\net5.0\AngularWebApi.Abstraction.dll
+E:\Youtube Videos\Vish Tech\3.2Crud Operation with Angular 9 and .net core 3.0 web\Source code with Repositery patterent\AngularWebApi\AngularWebApi.Abstraction\bin\Debug\net5.0\ref\AngularWebApi.Abstraction.dll
+E:\Youtube Videos\Vish Tech\3.2Crud Operation with Angular 9 and .net core 3.0 web\Source code with Repositery patterent\AngularWebApi\AngularWebApi.Abstraction\bin\Debug\net5.0\AngularWebApi.Abstraction.pdb
+E:\Youtube Videos\Vish Tech\3.2Crud Operation with Angular 9 and .net core 3.0 web\Source code with Repositery patterent\AngularWebApi\AngularWebApi.Abstraction\bin\Debug\net5.0\AngularWebApi.Entity.dll
+E:\Youtube Videos\Vish Tech\3.2Crud Operation with Angular 9 and .net core 3.0 web\Source code with Repositery patterent\AngularWebApi\AngularWebApi.Abstraction\bin\Debug\net5.0\DAL.dll
+E:\Youtube Videos\Vish Tech\3.2Crud Operation with Angular 9 and .net core 3.0 web\Source code with Repositery patterent\AngularWebApi\AngularWebApi.Abstraction\bin\Debug\net5.0\AngularWebApi.Entity.pdb
+E:\Youtube Videos\Vish Tech\3.2Crud Operation with Angular 9 and .net core 3.0 web\Source code with Repositery patterent\AngularWebApi\AngularWebApi.Abstraction\bin\Debug\net5.0\DAL.pdb
+E:\Youtube Videos\Vish Tech\3.2Crud Operation with Angular 9 and .net core 3.0 web\Source code with Repositery patterent\AngularWebApi\AngularWebApi.Abstraction\obj\Debug\net5.0\AngularWebApi.Abstraction.csproj.AssemblyReference.cache
+E:\Youtube Videos\Vish Tech\3.2Crud Operation with Angular 9 and .net core 3.0 web\Source code with Repositery patterent\AngularWebApi\AngularWebApi.Abstraction\obj\Debug\net5.0\AngularWebApi.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+E:\Youtube Videos\Vish Tech\3.2Crud Operation with Angular 9 and .net core 3.0 web\Source code with Repositery patterent\AngularWebApi\AngularWebApi.Abstraction\obj\Debug\net5.0\AngularWebApi.Abstraction.AssemblyInfoInputs.cache
+E:\Youtube Videos\Vish Tech\3.2Crud Operation with Angular 9 and .net core 3.0 web\Source code with Repositery patterent\AngularWebApi\AngularWebApi.Abstraction\obj\Debug\net5.0\AngularWebApi.Abstraction.AssemblyInfo.cs
+E:\Youtube Videos\Vish Tech\3.2Crud Operation with Angular 9 and .net core 3.0 web\Source code with Repositery patterent\AngularWebApi\AngularWebApi.Abstraction\obj\Debug\net5.0\AngularWebApi.Abstraction.csproj.CoreCompileInputs.cache
+E:\Youtube Videos\Vish Tech\3.2Crud Operation with Angular 9 and .net core 3.0 web\Source code with Repositery patterent\AngularWebApi\AngularWebApi.Abstraction\obj\Debug\net5.0\AngularWebApi.Abstraction.dll
+E:\Youtube Videos\Vish Tech\3.2Crud Operation with Angular 9 and .net core 3.0 web\Source code with Repositery patterent\AngularWebApi\AngularWebApi.Abstraction\obj\Debug\net5.0\ref\AngularWebApi.Abstraction.dll
+E:\Youtube Videos\Vish Tech\3.2Crud Operation with Angular 9 and .net core 3.0 web\Source code with Repositery patterent\AngularWebApi\AngularWebApi.Abstraction\obj\Debug\net5.0\AngularWebApi.Abstraction.pdb
+E:\Youtube Videos\Vish Tech\3.2Crud Operation with Angular 9 and .net core 3.0 web\Source code with Repositery patterent\AngularWebApi\AngularWebApi.Abstraction\obj\Debug\net5.0\AngularWebApi.Abstraction.genruntimeconfig.cache
+E:\Youtube Videos\Vish Tech\3.2Crud Operation with Angular 9 and .net core 3.0 web\Source code with Repositery patterent\AngularWebApi\AngularWebApi.Abstraction\obj\Debug\net5.0\AngularWebApi.Abstraction.csproj.CopyComplete

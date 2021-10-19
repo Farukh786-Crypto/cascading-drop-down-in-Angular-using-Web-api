@@ -1,0 +1,53 @@
+E:\Youtube Videos\Vish Tech\CRUD Operations with Repositery patteren\AngularWebApi\DAL\bin\Debug\net5.0\DAL.deps.json
+E:\Youtube Videos\Vish Tech\CRUD Operations with Repositery patteren\AngularWebApi\DAL\bin\Debug\net5.0\DAL.runtimeconfig.json
+E:\Youtube Videos\Vish Tech\CRUD Operations with Repositery patteren\AngularWebApi\DAL\bin\Debug\net5.0\DAL.runtimeconfig.dev.json
+E:\Youtube Videos\Vish Tech\CRUD Operations with Repositery patteren\AngularWebApi\DAL\bin\Debug\net5.0\DAL.dll
+E:\Youtube Videos\Vish Tech\CRUD Operations with Repositery patteren\AngularWebApi\DAL\bin\Debug\net5.0\ref\DAL.dll
+E:\Youtube Videos\Vish Tech\CRUD Operations with Repositery patteren\AngularWebApi\DAL\bin\Debug\net5.0\DAL.pdb
+E:\Youtube Videos\Vish Tech\CRUD Operations with Repositery patteren\AngularWebApi\DAL\bin\Debug\net5.0\AngularWebApi.Entity.dll
+E:\Youtube Videos\Vish Tech\CRUD Operations with Repositery patteren\AngularWebApi\DAL\bin\Debug\net5.0\AngularWebApi.Entity.pdb
+E:\Youtube Videos\Vish Tech\CRUD Operations with Repositery patteren\AngularWebApi\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+E:\Youtube Videos\Vish Tech\CRUD Operations with Repositery patteren\AngularWebApi\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Youtube Videos\Vish Tech\CRUD Operations with Repositery patteren\AngularWebApi\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+E:\Youtube Videos\Vish Tech\CRUD Operations with Repositery patteren\AngularWebApi\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+E:\Youtube Videos\Vish Tech\CRUD Operations with Repositery patteren\AngularWebApi\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+E:\Youtube Videos\Vish Tech\CRUD Operations with Repositery patteren\AngularWebApi\DAL\obj\Debug\net5.0\DAL.dll
+E:\Youtube Videos\Vish Tech\CRUD Operations with Repositery patteren\AngularWebApi\DAL\obj\Debug\net5.0\ref\DAL.dll
+E:\Youtube Videos\Vish Tech\CRUD Operations with Repositery patteren\AngularWebApi\DAL\obj\Debug\net5.0\DAL.pdb
+E:\Youtube Videos\Vish Tech\CRUD Operations with Repositery patteren\AngularWebApi\DAL\obj\Debug\net5.0\DAL.genruntimeconfig.cache
+E:\Youtube Videos\Vish Tech\Source Code of Vish Tech\AngularWebApi\DAL\bin\Debug\net5.0\DAL.deps.json
+E:\Youtube Videos\Vish Tech\Source Code of Vish Tech\AngularWebApi\DAL\bin\Debug\net5.0\DAL.runtimeconfig.json
+E:\Youtube Videos\Vish Tech\Source Code of Vish Tech\AngularWebApi\DAL\bin\Debug\net5.0\DAL.runtimeconfig.dev.json
+E:\Youtube Videos\Vish Tech\Source Code of Vish Tech\AngularWebApi\DAL\bin\Debug\net5.0\DAL.dll
+E:\Youtube Videos\Vish Tech\Source Code of Vish Tech\AngularWebApi\DAL\bin\Debug\net5.0\ref\DAL.dll
+E:\Youtube Videos\Vish Tech\Source Code of Vish Tech\AngularWebApi\DAL\bin\Debug\net5.0\DAL.pdb
+E:\Youtube Videos\Vish Tech\Source Code of Vish Tech\AngularWebApi\DAL\bin\Debug\net5.0\AngularWebApi.Entity.dll
+E:\Youtube Videos\Vish Tech\Source Code of Vish Tech\AngularWebApi\DAL\bin\Debug\net5.0\AngularWebApi.Entity.pdb
+E:\Youtube Videos\Vish Tech\Source Code of Vish Tech\AngularWebApi\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+E:\Youtube Videos\Vish Tech\Source Code of Vish Tech\AngularWebApi\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Youtube Videos\Vish Tech\Source Code of Vish Tech\AngularWebApi\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+E:\Youtube Videos\Vish Tech\Source Code of Vish Tech\AngularWebApi\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+E:\Youtube Videos\Vish Tech\Source Code of Vish Tech\AngularWebApi\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+E:\Youtube Videos\Vish Tech\Source Code of Vish Tech\AngularWebApi\DAL\obj\Debug\net5.0\DAL.csproj.CopyComplete
+E:\Youtube Videos\Vish Tech\Source Code of Vish Tech\AngularWebApi\DAL\obj\Debug\net5.0\DAL.dll
+E:\Youtube Videos\Vish Tech\Source Code of Vish Tech\AngularWebApi\DAL\obj\Debug\net5.0\ref\DAL.dll
+E:\Youtube Videos\Vish Tech\Source Code of Vish Tech\AngularWebApi\DAL\obj\Debug\net5.0\DAL.pdb
+E:\Youtube Videos\Vish Tech\Source Code of Vish Tech\AngularWebApi\DAL\obj\Debug\net5.0\DAL.genruntimeconfig.cache
+E:\Youtube Videos\Vish Tech\3.2Crud Operation with Angular 9 and .net core 3.0 web\Source code with Repositery patterent\AngularWebApi\DAL\bin\Debug\net5.0\DAL.deps.json
+E:\Youtube Videos\Vish Tech\3.2Crud Operation with Angular 9 and .net core 3.0 web\Source code with Repositery patterent\AngularWebApi\DAL\bin\Debug\net5.0\DAL.runtimeconfig.json
+E:\Youtube Videos\Vish Tech\3.2Crud Operation with Angular 9 and .net core 3.0 web\Source code with Repositery patterent\AngularWebApi\DAL\bin\Debug\net5.0\DAL.runtimeconfig.dev.json
+E:\Youtube Videos\Vish Tech\3.2Crud Operation with Angular 9 and .net core 3.0 web\Source code with Repositery patterent\AngularWebApi\DAL\bin\Debug\net5.0\DAL.dll
+E:\Youtube Videos\Vish Tech\3.2Crud Operation with Angular 9 and .net core 3.0 web\Source code with Repositery patterent\AngularWebApi\DAL\bin\Debug\net5.0\ref\DAL.dll
+E:\Youtube Videos\Vish Tech\3.2Crud Operation with Angular 9 and .net core 3.0 web\Source code with Repositery patterent\AngularWebApi\DAL\bin\Debug\net5.0\DAL.pdb
+E:\Youtube Videos\Vish Tech\3.2Crud Operation with Angular 9 and .net core 3.0 web\Source code with Repositery patterent\AngularWebApi\DAL\bin\Debug\net5.0\AngularWebApi.Entity.dll
+E:\Youtube Videos\Vish Tech\3.2Crud Operation with Angular 9 and .net core 3.0 web\Source code with Repositery patterent\AngularWebApi\DAL\bin\Debug\net5.0\AngularWebApi.Entity.pdb
+E:\Youtube Videos\Vish Tech\3.2Crud Operation with Angular 9 and .net core 3.0 web\Source code with Repositery patterent\AngularWebApi\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+E:\Youtube Videos\Vish Tech\3.2Crud Operation with Angular 9 and .net core 3.0 web\Source code with Repositery patterent\AngularWebApi\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Youtube Videos\Vish Tech\3.2Crud Operation with Angular 9 and .net core 3.0 web\Source code with Repositery patterent\AngularWebApi\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+E:\Youtube Videos\Vish Tech\3.2Crud Operation with Angular 9 and .net core 3.0 web\Source code with Repositery patterent\AngularWebApi\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+E:\Youtube Videos\Vish Tech\3.2Crud Operation with Angular 9 and .net core 3.0 web\Source code with Repositery patterent\AngularWebApi\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+E:\Youtube Videos\Vish Tech\3.2Crud Operation with Angular 9 and .net core 3.0 web\Source code with Repositery patterent\AngularWebApi\DAL\obj\Debug\net5.0\DAL.dll
+E:\Youtube Videos\Vish Tech\3.2Crud Operation with Angular 9 and .net core 3.0 web\Source code with Repositery patterent\AngularWebApi\DAL\obj\Debug\net5.0\ref\DAL.dll
+E:\Youtube Videos\Vish Tech\3.2Crud Operation with Angular 9 and .net core 3.0 web\Source code with Repositery patterent\AngularWebApi\DAL\obj\Debug\net5.0\DAL.pdb
+E:\Youtube Videos\Vish Tech\3.2Crud Operation with Angular 9 and .net core 3.0 web\Source code with Repositery patterent\AngularWebApi\DAL\obj\Debug\net5.0\DAL.genruntimeconfig.cache
+E:\Youtube Videos\Vish Tech\3.2Crud Operation with Angular 9 and .net core 3.0 web\Source code with Repositery patterent\AngularWebApi\DAL\obj\Debug\net5.0\DAL.csproj.CopyComplete
